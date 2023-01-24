@@ -4,6 +4,8 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo (ama aslında değil:))
 
 ---
 
+![](https://essentebilisim.com/blog/kodlama-nedir-ve-ne-ise-yarar.jpg)
+
 ## Installation
 Projeyi masaüstüne klonlamak için:
 
@@ -18,5 +20,7 @@ Projeyi masaüstüne klonlamak için:
 ## License
 MIT
 
+## GIT CHEAT SHEET
+[git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 
